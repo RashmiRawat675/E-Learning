@@ -1,0 +1,13 @@
+ .student-deshboard{
+    padding: 80px 0;
+    text-align: center;
+    min-height: 55vh;
+
+    .dashboard-content{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 25px;
+        margin-top: 40px;
+    }
+}
